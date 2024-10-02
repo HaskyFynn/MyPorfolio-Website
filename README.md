@@ -1,7 +1,7 @@
 # Portfolio - Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_hasky1_?style=social)](https://twitter.com/intent/follow?screen_name=_hasky1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_hasky1?style=social)](https://twitter.com/intent/follow?screen_name=_hasky1)
 
 This is my personal website, fully responsive for all devices, built using HTML, CSS, and JavaScript.
 
